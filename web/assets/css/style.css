@@ -1,0 +1,56 @@
+
+.link_style{
+    font-weight: bold;
+
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+
+.content-grid{
+    max-width: 80%;
+
+}
+.colorR{
+    color: red;
+}
+.to-top{
+    margin-top:10%;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bg{
+    background-color: grey;
+}
+.taille{
+    height: 10px;
+}
+.bg2{
+    background-color: white;
+    color:black;
+    height: 70px;
+}
+.long{
+    height: 70px;
+}
+.bg3{
+    background-color: darkgoldenrod;
+    color:white;
+}
+.fontUserPanel{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.styling{
+    color: white;
+    font-weight: normal;
+}
+
+.wid{
+    width: 100%;
+}
